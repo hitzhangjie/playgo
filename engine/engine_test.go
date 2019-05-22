@@ -1,9 +1,8 @@
 package engine_test
 
 import (
+	"github.com/hitzhangjie/playgo/engine"
 	"testing"
-
-	"github.com/huytd/playgo/engine"
 )
 
 func TestEngineCodeGeneratorForSingleLine(t *testing.T) {
